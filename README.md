@@ -1,5 +1,7 @@
 # 👋 Hi there! I'm Saber
 
+Welcome to my digital lair! I'm a DevOps engineer by day, Linux terminal whisperer by night, and a self-proclaimed container wizard 24/7. When I’m not debugging YAML files or spinning up Kubernetes clusters, you’ll find me leveling up in a game, jamming out to some heavy metal, or indulging in a delicious plate of ghorme sabzi.
+
 ## 🚀 Job
 
 - 🛠️ **DevOps Engineer**: I specialize in automating, scaling, and securing infrastructures.
