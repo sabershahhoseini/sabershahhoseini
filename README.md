@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Saber
 
-Welcome to my digital lair! I'm a DevOps engineer by day, Linux terminal whisperer by night, and a self-proclaimed container wizard 24/7. When I’m not debugging YAML files or spinning up Kubernetes clusters, you’ll find me leveling up in a game, jamming out to some heavy metal, or indulging in a delicious plate of ghorme sabzi.
+Welcome to my digital lair! I'm a DevOps engineer by day, Linux terminal whisperer by night, and a self-proclaimed container wizard 24/7. When I’m not debugging YAML files or spinning up Kubernetes clusters, you’ll find me leveling up in a game, jamming out to some heavy metal, or indulging in a delicious plate of Ghorme Sabzi.
 
 ## 🚀 Job
 
@@ -14,7 +14,7 @@ Welcome to my digital lair! I'm a DevOps engineer by day, Linux terminal whisper
 ## 🎮 Life
 
 - 🎮 **Gamer**: In my free time, I’m all about exploring immersive worlds and taking on new challenges in gaming.
-- 🍲 **Ghorme Sabzi Lover**: Nothing beats a hearty plate of ghorme sabzi!
+- 🍲 **Ghorme Sabzi Lover**: Nothing beats a hearty plate of Ghorme Sabzi!
 - 🎬 **Black Mirror Fan**: I’m fascinated by dystopian tech and the dark side of innovation, making Black Mirror one of my favorite series.
 - 🎸 **Metalhead**: I’m into heavy, fast riffs and love listening to metal music, from classic bands to modern ones.
 
